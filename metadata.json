@@ -1,0 +1,5 @@
+{
+  "name": "Chennai Storefront",
+  "description": "An application for entrepreneurs to create and manage their own digital storefronts. Product descriptions can be auto-generated using AI. Customers can browse products from individual stores.",
+  "requestFramePermissions": []
+}
